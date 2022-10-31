@@ -6,6 +6,7 @@
 	  "suburb": "Dee Why",
 	  "next_date_1": "8th November", 
 	  "next_date_2": "25th November",
+	  "email_address": "neil.snowdon@vonage.com",
       "username": "Neil"
     },
 	    {
@@ -14,6 +15,7 @@
 	  "suburb": "Medowbank",
 	  "next_date_1": "9th November",
 	  "next_date_2": "26th November",
+	  "email_address": "raj.shah@vonage.com",	  
       "username": "Raj"
     },
 	    {
@@ -22,6 +24,7 @@
 	  "suburb": "Ryde",
 	  "next_date_1": "8th November",
 	  "next_date_2": "25th November",
+	  "email_address": "jerry.yessaeian@dcencompass.com.au",	  
       "username": "Jerry"
     },
     {
@@ -30,6 +33,7 @@
 	  "suburb": "xxx",
 	  "next_date_1": "8th November",
 	  "next_date_2": "25th November",
+	  "email_address": "tbc",	  
       "username": "Mayor"
     }
   ]
