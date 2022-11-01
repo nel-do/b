@@ -4,8 +4,8 @@
       "cli": "61419597332",
 	  "address": "106. Pittwater Road.",
 	  "suburb": "Dee Why",
-	  "date_1": "2022-11-08", 
-	  "date_2": "2022-11-25",
+	  "day_1": "2022-11-08", 
+	  "day_2": "2022-11-25",
 	  "email_address": "neil.snowdon@vonage.com",
       "username": "Neil"
     },
@@ -13,8 +13,8 @@
       "cli": "61408222011",
 	  "address": "1. 3. Constitution Rd.",
 	  "suburb": "Medowbank",
-	  "date_1": "2022-11-07", 
-	  "date_2": "2022-11-24",
+	  "day_1": "2022-11-07", 
+	  "day_2": "2022-11-24",
 	  "email_address": "raj.shah@vonage.com",	  
       "username": "Raj"
     },
@@ -22,8 +22,8 @@
       "cli": "61421488111",
 	  "address": "1. Pope Street.",
 	  "suburb": "Ryde",
-	  "date_1": "2022-11-09", 
-	  "date_2": "2022-11-26",
+	  "day_1": "2022-11-09", 
+	  "day_2": "2022-11-26",
 	  "email_address": "jerry.yessaeian@dcencompass.com.au",	  
       "username": "Jerry"
     },
@@ -31,8 +31,8 @@
       "cli": "61419597xxx",
 	  "address": "xxx",
 	  "suburb": "xxx",
-	  "date_1": "2022-11-10", 
-	  "date_2": "2022-11-27",
+	  "day_1": "2022-11-10", 
+	  "day_2": "2022-11-27",
 	  "email_address": "tbc",	  
       "username": "Mayor"
     }
