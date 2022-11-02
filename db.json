@@ -27,6 +27,15 @@
 	  "email_address": "jerry.yessaeian@dcencompass.com.au",	  
       "username": "Jerry"
     },
+	    {
+      "cli": "61419727831",
+	  "address": "33. baker street.",
+	  "suburb": "london",
+	  "day_1": "2022-11-09", 
+	  "day_2": "2022-11-26",
+	  "email_address": "mark.smith@vonage.com",	  
+      "username": "Mark"
+    },	  
     {
       "cli": "61419597xxx",
 	  "address": "xxx",
