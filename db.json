@@ -36,6 +36,37 @@
 	  "email_address": "mark.smith@vonage.com",	  
       "username": "Mark"
     },	  
+
+	    {
+      "cli": "61477753445",
+	  "address": "111 Collins Street",
+	  "suburb": "Melbourne",
+	  "day_1": "2022-11-09", 
+	  "day_2": "2022-11-26",
+	  "email_address": "bhuva.kuppuswamy@optus.com.au",	  
+      "username": "Bhuva"
+    },	
+	  
+	  	    {
+      "cli": "61481006071",
+	  "address": "1 Lyon Park Road",
+	  "suburb": "Macquarie Park",
+	  "day_1": "2022-11-09", 
+	  "day_2": "2022-11-26",
+	  "email_address": "Felton.Xu@optus.com.au",	  
+      "username": "Felton"
+    },
+	  
+	  	    {
+      "cli": "61418252041",
+	  "address": "11 Talavera Road",
+	  "suburb": "North Ryde",
+	  "day_1": "2022-11-09", 
+	  "day_2": "2022-11-26",
+	  "email_address": "keith.vaz@ericsson.com",	  
+      "username": "Keith"
+    },	
+	  
     {
       "cli": "61466135359",
 	  "address": "3 Richardson place",
